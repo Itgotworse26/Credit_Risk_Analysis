@@ -29,6 +29,7 @@ The purpose of this assignment is to determine which of the six learning models 
 * The precision score for high-risk loans is 0.01. The precision score for low-risk loans is 1.00.
 * The recall score for high-risk loans is 0.60. The recall score for low-risk loans is 0.72.
 
+
 ### SMOTE Oversampling
 
 #### SMOTE Dataframe
@@ -45,17 +46,19 @@ The purpose of this assignment is to determine which of the six learning models 
 
 ### Undersampling
 
+
 #### Undersampling Dataframe
-![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_cm_df.png)
+![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/Undersampling_df.png)
 
 
 #### Undersampling Imbalanced Classification Report
-![Undersampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_Imbalanced_Classification_Report.JPG)
+![Undersampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/Undersampling_Imbalanced_Classification_Report.JPG)
 
 
 * The balanced accuracy score is about .5441 or 54.41%
 * The precision score for high-risk loans is 0.01 or 1%. The precision score for low-risk loans is 1.00 or 100%.
 * The recall score for high-risk loans is 0.69 or 69%. The recall score for low-risk loans is 0.40 or 40%.
+
 
 ### Combination (Over and Under) Sampling
 
@@ -71,6 +74,7 @@ The purpose of this assignment is to determine which of the six learning models 
 * The precision score for high-risk loans is 0.01 or 1%. The precision score for low-risk loans is 1.00 or 100%.
 * The recall score for high-risk loans is 0.72 or 72%. The recall score for low-risk loans is 0.57 or 57%.
 
+
 ### Balanced Random Forest Classifier
 
 #### Balanced Random Forest Classifier Dataframe
@@ -84,6 +88,7 @@ The purpose of this assignment is to determine which of the six learning models 
 * The balanced accuracy score is about .7885 or 78.85%.
 * The precision score for high-risk loans is 0.03 or 3%. The precision score for low-risk loans is 1.00 or 100%.
 * The recall score for high-risk loans is 0.70 or 70%. The recall score for low-risk loans is 0.87 or 87%.
+
 
 ### Easy Ensemble AdaBoost Classifier
 

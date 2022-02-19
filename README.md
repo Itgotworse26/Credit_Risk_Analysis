@@ -20,8 +20,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### Naive Random Oversampling Dataframe
 ![Naive Random Oversampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/NRO_cm_df.png)
 
+
 #### Naive Random Oversampling Imbalanced Classification Report
 ![Naive Random Oversampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/NRO_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .6614 or 66.14%.
 * The precision score for high-risk loans is 0.01. The precision score for low-risk loans is 1.00.
@@ -32,8 +34,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### SMOTE Dataframe
 ![SMOTE Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_cm_df.png)
 
+
 #### SMOTE Imbalanced Classification Report
 ![SMOTE Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .6581 or 65.81%.
 * The precision score for high-risk loans is 0.01. The precision score for low-risk loans is 1.00.
@@ -44,8 +48,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### Undersampling Dataframe
 ![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_cm_df.png)
 
+
 #### Undersampling Imbalanced Classification Report
 ![Undersampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .5441 or 54.41%
 * The precision score for high-risk loans is 0.01 or 1%. The precision score for low-risk loans is 1.00 or 100%.
@@ -56,8 +62,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### Combination (Over and Under) Sampling Dataframe
 ![Combination (Over and Under) Sampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/COU_cm_df.png)
 
+
 #### Combination (Over and Under) Imbalanced Classification Report
 ![Combination (Over and Under) Sampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/COU_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .6449 or 64.49%.
 * The precision score for high-risk loans is 0.01 or 1%. The precision score for low-risk loans is 1.00 or 100%.
@@ -68,8 +76,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### Balanced Random Forest Classifier Dataframe
 ![Balanced Random Forest Classifier Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/BRFC_cm_df.png)
 
+
 #### Balanced Random Forest Classifier Imbalanced Classification Report
 ![Balanced Random Forest Classifier Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/BRFC_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .7885 or 78.85%.
 * The precision score for high-risk loans is 0.03 or 3%. The precision score for low-risk loans is 1.00 or 100%.
@@ -80,8 +90,10 @@ The purpose of this assignment is to determine which of the six learning models 
 #### Easy Ensemble AdaBoost Classifier Dataframe
 ![Easy Ensemble AdaBoost Classifier Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/EEAC_cm_df.png)
 
+
 #### Easy Ensemble AdaBoost Classifier Imbalanced Classification Report
 ![Easy Ensemble AdaBoost Classifier Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/EEAC_Imbalanced_Classification_Report.JPG)
+
 
 * The balanced accuracy score is about .9317 or 93.17%.
 * The precision score for high-risk loans is 0.09 or 9%. The precision score for low-risk loans is 1.00 or 100%.

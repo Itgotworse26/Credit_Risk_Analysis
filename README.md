@@ -16,8 +16,11 @@ The purpose of this assignment is to determine which of the six learning models 
 ## Results
 
 ### Naive Random Oversampling
+
+#### Naive Random Oversampling Dataframe
 ![Naive Random Oversampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/NRO_cm_df.png)
 
+#### Naive Random Oversampling Imbalanced Classification Report
 ![Naive Random Oversampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/NRO_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .6614 or 66.14%.
@@ -25,8 +28,11 @@ The purpose of this assignment is to determine which of the six learning models 
 * The recall score for high-risk loans is 0.60. The recall score for low-risk loans is 0.72.
 
 ### SMOTE Oversampling
+
+#### SMOTE Dataframe
 ![SMOTE Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_cm_df.png)
 
+#### SMOTE Imbalanced Classification Report
 ![SMOTE Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .6581 or 65.81%.
@@ -34,8 +40,11 @@ The purpose of this assignment is to determine which of the six learning models 
 * The recall score for high-risk loans is 0.62. The recall score for low-risk loans is 0.69.
 
 ### Undersampling
+
+#### Undersampling Dataframe
 ![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_cm_df.png)
 
+#### Undersampling Imbalanced Classification Report
 ![Undersampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/SMOTE_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .5441 or 54.41%
@@ -43,8 +52,11 @@ The purpose of this assignment is to determine which of the six learning models 
 * The recall score for high-risk loans is 0.69 or 69%. The recall score for low-risk loans is 0.40 or 40%.
 
 ### Combination (Over and Under) Sampling
+
+#### Combination (Over and Under) Sampling Dataframe
 ![Combination (Over and Under) Sampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/COU_cm_df.png)
 
+#### Combination (Over and Under) Imbalanced Classification Report
 ![Combination (Over and Under) Sampling Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/COU_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .6449 or 64.49%.
@@ -52,8 +64,11 @@ The purpose of this assignment is to determine which of the six learning models 
 * The recall score for high-risk loans is 0.72 or 72%. The recall score for low-risk loans is 0.57 or 57%.
 
 ### Balanced Random Forest Classifier
+
+#### Balanced Random Forest Classifier Dataframe
 ![Balanced Random Forest Classifier Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/BRFC_cm_df.png)
 
+#### Balanced Random Forest Classifier Imbalanced Classification Report
 ![Balanced Random Forest Classifier Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/BRFC_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .7885 or 78.85%.
@@ -61,8 +76,11 @@ The purpose of this assignment is to determine which of the six learning models 
 * The recall score for high-risk loans is 0.70 or 70%. The recall score for low-risk loans is 0.87 or 87%.
 
 ### Easy Ensemble AdaBoost Classifier
+
+#### Easy Ensemble AdaBoost Classifier Dataframe
 ![Easy Ensemble AdaBoost Classifier Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/EEAC_cm_df.png)
 
+#### Easy Ensemble AdaBoost Classifier Imbalanced Classification Report
 ![Easy Ensemble AdaBoost Classifier Imbalanced Classification Report](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/EEAC_Imbalanced_Classification_Report.JPG)
 
 * The balanced accuracy score is about .9317 or 93.17%.

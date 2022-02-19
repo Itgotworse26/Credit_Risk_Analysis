@@ -48,7 +48,7 @@ The purpose of this assignment is to determine which of the six learning models 
 
 
 #### Undersampling Dataframe
-![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/Undersampling_df.png)
+![Undersampling Dataframe](https://github.com/Itgotworse26/Credit_Risk_Analysis/blob/main/analysis/Undersampling_cm_df.png)
 
 
 #### Undersampling Imbalanced Classification Report
